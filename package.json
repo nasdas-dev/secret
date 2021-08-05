@@ -10,6 +10,7 @@
     "@chakra-ui/react": "^1.4.2",
     "@emotion/react": "^11.0.0",
     "@emotion/styled": "^11.0.0",
+    "beautiful-dom": "^1.0.9",
     "formik": "^2.2.9",
     "framer-motion": "^4.0.3",
     "graphql": "^15.5.1",
